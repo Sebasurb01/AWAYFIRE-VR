@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/ALTURA.unity
+    guid: e85628790475b5a4faab7eb17f8fb3b4
+  - enabled: 1
+    path: Assets/FUEGO.unity
+    guid: d2b54afa3e1a8d54ea66297dba77a0a6
+  - enabled: 1
     path: Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
   m_configObjects:
